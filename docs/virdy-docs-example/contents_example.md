@@ -10,8 +10,8 @@ sidebar_position: 1
 
 ### 2024
 
-24.03 - 임재천 - 1st Concert 'SALTLINE' <br/>
-https://www.youtube.com/watch?v=2ImA26Ov30E&list=PLRlPq5ZcyNSRNW6mAe-6pK-4X8ZP11Ykc
+<a href="https://www.youtube.com/watch?v=2ImA26Ov30E&list=PLRlPq5ZcyNSRNW6mAe-6pK-4X8ZP11Ykc" class="custom-link" target="blank">24.03 - 임재천 - 1st Concert 'SALTLINE'</a> <br/>
+
 
 24.02 - 아이네 - 아프리카 첫방송 기념 노래 방송 <br/>
 https://vod.afreecatv.com/player/115894243 <br/>
