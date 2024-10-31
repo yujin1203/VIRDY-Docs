@@ -12,12 +12,15 @@ sidebar_position: 1
 
 <a href="https://www.youtube.com/watch?v=2ImA26Ov30E&list=PLRlPq5ZcyNSRNW6mAe-6pK-4X8ZP11Ykc" class="custom-link" target="blank">24.03 - 임재천 - 1st Concert 'SALTLINE'</a> <br/>
 
+<br/>
 
-24.02 - 아이네 - 아프리카 첫방송 기념 노래 방송 <br/>
-https://vod.afreecatv.com/player/115894243 <br/>
+<a href="https://vod.afreecatv.com/player/115894243" class="custom-link" target="blank">24.02 - 아이네 - 아프리카 첫방송 기념 노래 방송</a> <br/>
 
-24.02 - 징버거 - 그래도 나 사랑하지 커버 <br/>
-https://youtu.be/Q6puNlv3Cm4?si=e042L4GVh_4LCofq <br/>
+<br/>
+
+<a href="https://youtu.be/Q6puNlv3Cm4?si=e042L4GVh_4LCofq" class="custom-link" target="blank">24.02 - 징버거 - 그래도 나 사랑하지 커버</a> <br/>
+
+<br/>
 
 ### 2023
 
