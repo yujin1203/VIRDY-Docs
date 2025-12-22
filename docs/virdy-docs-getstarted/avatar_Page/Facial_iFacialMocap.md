@@ -15,13 +15,13 @@ sidebar_position: 2
 
 ## 설정
 
-![AvatarSetImage6](/img/Page_AvatarSettings/6.png) <br/>
-**1.** <span class="highlight_text">**활성화**</span>를 <span class="highlight_text">**On**</span>으로 변경합니다. <br/>
+![AvatarSetImage6](/img/Page_AvatarSettings/IFacial_Settings_1.png) <br/>
+**1.** <span class="highlight_text">**활성화**</span>를 <span class="highlight_text">**On**</span>으로 변경, 디바이스는 <span class="highlight_text">**iFacialMocap**</span>을 사용합니다. <br/>
 
 **2.** 사용할 <span class="highlight_text">**iPhone과 PC**</span>를 같은 네트워크로 연결합니다. <br/>
 
 **3.** iPhone의 IP 주소를 <span class="highlight_text">**디바이스 아이피 주소**</span>에 입력하거나, <span class="highlight_text">**페이셜 앱에 PC IP**</span>를 입력합니다. <br/> 
-PC IP 주소는 아래 <span class="highlight">**내 컴퓨터 아이피 주소**</span> 의 눈 모양 아이콘을 클릭하여 확인할 수 있습니다. <br/>
+PC IP 주소는 VIRDY 화면 아래 <span class="highlight_text">**IP 아이콘**</span>을 클릭하여 확인할 수 있습니다. <br/>
 
 **4.** 포트를 <span class="highlight_text">**페이셜 앱의 포트 넘버**</span>와 동일하게 설정합니다. <br/>
 

@@ -12,6 +12,31 @@ sidebar_position: 1
 <span class="highlight_text">**개인방송 콘텐츠**</span>부터 다수의 크리에이터와 함께 하는 <span class="highlight_text">**대형 콘텐츠**</span>까지, 다양하고 폭넓은 콘텐츠를 자유롭게 기획, 제작할 수 있도록 지원하는 솔루션입니다. 
 
 ## How to install
+<div class="download-container">
+  <a 
+    class="button button--primary button--lg download-button-link" 
+    href="https://github.com/PARABLE-Ent/VIRDY-Docs/releases/download/1.0.0/VIRDY_Setup.exe" 
+    download="VIRDY_Setup.exe">
+    <svg 
+      width="24" 
+      height="24" 
+      viewBox="0 0 24 24" 
+      fill="none" 
+      stroke="currentColor" 
+      stroke-width="2.5" 
+      stroke-linecap="round" 
+      stroke-linejoin="round">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+        <polyline points="7 10 12 15 17 10"></polyline>
+        <line x1="12" y1="15" x2="12" y2="3"></line>
+    </svg>
+    <span>VIRDY Launcher 다운로드</span>
+  </a>
+  <p class="download-button-info">
+    버전: 1.0.0 | Windows
+  </p>
+</div>
+
 
 현 버전의 설치 파일은 <span class="highlight_text">**NDA 계약서 체결**</span>이 된 크리에이터/매니저에게만 제공하고 있습니다. <br/>
 설치 파일이 필요한 경우 <span class="highlight_text">**담당 패러블 매니저**</span>로 문의 부탁드립니다.

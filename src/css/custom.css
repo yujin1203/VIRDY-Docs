@@ -4,17 +4,20 @@
  * work well for content-centric websites.
  */
 
+/* Pretendard 폰트 import */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #07073a;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary: rgb(7, 7, 58);
+  --ifm-color-primary-dark: rgb(15, 110, 219);
+  --ifm-color-primary-darker: rgb(12, 84, 167);
+  --ifm-color-primary-darkest: rgb(6, 39, 77);
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-}
+     }
 
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
@@ -158,4 +161,30 @@ html[data-theme='dark'] .navbar {
 html[data-theme='dark'] .table-of-contents__link--active {
   color: #b3a4f7; /* 다크 모드에서 활성화된 항목의 텍스트 색상 */
   font-weight: bold; /* 글자 굵기 유지 */
+}
+
+/* 다운로드 버튼 커스텀 스타일 */
+.download-container {
+  margin: 30px 0;
+}
+
+/* Infima 버튼 클래스와 함께 사용될 클래스 */
+.download-button-link {
+  /* 아이콘과 텍스트 정렬을 위한 스타일 */
+  display: inline-flex;
+  align-items: center;
+  
+  /* 버튼 크기 및 폰트 조절 */
+  font-size: 1.2rem;
+  padding: 0.8rem 1.6rem;
+}
+
+.download-button-link svg {
+  margin-right: 12px;
+}
+
+.download-button-info {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary-darkest);
 }

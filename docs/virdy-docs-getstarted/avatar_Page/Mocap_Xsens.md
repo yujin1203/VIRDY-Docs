@@ -29,7 +29,7 @@ VIRDY와 MVN 소프트웨어를 같은 PC에서 실행시 Host는 **```127.0.0.1
 
 ## VIRDY - Xsens 활성화
 
-![xsens3](/img/Page_AvatarSettings/MotionSet/xsens_3.png) <br/>
+![xsens3](/img/Page_AvatarSettings/MotionSet/Xsens_Settings_1.png) <br/>
 모션 트래킹 탭에서 Xsens를 선택, **활성화**를 해줍니다. <br/>
 액터 ID는 기본값 ```1```로 설정합니다.
 
@@ -37,8 +37,6 @@ VIRDY와 MVN 소프트웨어를 같은 PC에서 실행시 Host는 **```127.0.0.1
 
 ![xsens4](/img/Page_AvatarSettings/MotionSet/xsens_4.png) <br/>
 Xsens는 1대의 PC에서 최대 4인까지 연결이 가능합니다. <br/>
-MVN 소프트웨어에서 세팅시 첫번째 액터가 **액터 ID 1**, 그 다음 액터는 **액터 ID 2**로 자동 구분됩니다.
+MVN 소프트웨어에서 세팅시 첫번째 액터가 **액터 ID 1**, 그 다음 액터는 **액터 ID 2**로 자동 구분됩니다. <br/>
 
-
-![xsens5](/img/Page_AvatarSettings/MotionSet/xsens_5.png) <br/>
 다인 세팅시 <span class="highlight_text">**VIRDY 액터**</span> 또한 추가하여 순서에 맞게 Xsens 액터 ID를 부여합니다.
