@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # VIRDY
 
-<img src="/VIRDY-Docs/img/Page_Intro/Intro_1.png" alt="MainBanner"/>
-
 ## VIRDY Overview
 
 <span class="highlight_text">**VIRDY**</span>는 3D 버추얼 크리에이터를 위한 콘텐츠 제작 솔루션입니다. <br/>
