@@ -21,7 +21,7 @@ Unity UI를 제작하면 일반적으로 기본 스크린상에 노출됩니다.
 반대로 크리에이터가 보게 되는 **```Main Screen```** 에만 원하는 UI를 노출시킬 수도 있습니다.
 
 ## ManagerUI
-
+test
 ## ScreenUI
 
 ## WorldUI
